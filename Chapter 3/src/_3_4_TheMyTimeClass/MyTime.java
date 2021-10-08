@@ -1,7 +1,7 @@
 package _3_4_TheMyTimeClass;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class MyTime {
