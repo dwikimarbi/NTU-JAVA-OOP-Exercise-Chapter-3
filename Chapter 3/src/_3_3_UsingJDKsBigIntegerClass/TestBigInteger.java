@@ -1,7 +1,7 @@
 package _3_3_UsingJDKsBigIntegerClass;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 import java.math.BigInteger;
