@@ -1,7 +1,7 @@
 package _3_2_TheMyPolynomialClass;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class MyPolynomial {
