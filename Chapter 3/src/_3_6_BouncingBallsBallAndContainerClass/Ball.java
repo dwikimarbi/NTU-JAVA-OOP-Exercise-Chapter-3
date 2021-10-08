@@ -1,7 +1,7 @@
 package _3_6_BouncingBallsBallAndContainerClass;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class Ball {
