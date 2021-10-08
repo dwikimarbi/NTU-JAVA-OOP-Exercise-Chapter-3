@@ -1,7 +1,7 @@
 package _3_7_TheBallAndPlayerClasses;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class Ball {
